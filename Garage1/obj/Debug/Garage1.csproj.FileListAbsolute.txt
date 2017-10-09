@@ -1,0 +1,6 @@
+c:\users\satman\documents\visual studio 2017\udemy\Garage1\Garage1\bin\Debug\Garage1.exe.config
+c:\users\satman\documents\visual studio 2017\udemy\Garage1\Garage1\bin\Debug\Garage1.exe
+c:\users\satman\documents\visual studio 2017\udemy\Garage1\Garage1\bin\Debug\Garage1.pdb
+c:\users\satman\documents\visual studio 2017\udemy\Garage1\Garage1\obj\Debug\Garage1.csprojResolveAssemblyReference.cache
+c:\users\satman\documents\visual studio 2017\udemy\Garage1\Garage1\obj\Debug\Garage1.exe
+c:\users\satman\documents\visual studio 2017\udemy\Garage1\Garage1\obj\Debug\Garage1.pdb

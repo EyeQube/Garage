@@ -1,1 +1,1 @@
-# C# project (for practice)
+# Simple database for parked vehicles.
